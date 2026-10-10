@@ -1,0 +1,4 @@
+The topics, query formulations, retrieval runs, judging pool and relevance judgments in data/ and results/
+are released under the Creative Commons Attribution 4.0 International license (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+Bibliographic metadata in data/corpus/corpus_ids.csv comes from OpenAlex (CC0), Semantic Scholar and Crossref.

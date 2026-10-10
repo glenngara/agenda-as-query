@@ -1,0 +1,24 @@
+topic_id,title,coverage,lo,hi,at_cap
+PBSAP-01,Land and Sea Use Planning,1000,1000.0,1000.0,True
+PBSAP-02,Ecosystem Restoration,1000,1000.0,1000.0,True
+PBSAP-03,Protect and Conserve Land and Sea,1000,1000.0,1000.0,True
+PBSAP-04,Active Management of Species and Genetic Diversity,1000,1000.0,1000.0,True
+PBSAP-05,"Harvest, Trade, and Use of Wild Species",1000,1000.0,1000.0,True
+PBSAP-06,Invasive Alien Species,1000,1000.0,1000.0,True
+PBSAP-07,Reduce Pollution,1000,770.0,1000.0,True
+PBSAP-08,Minimize the Impact of Climate Change,1000,1000.0,1000.0,True
+PBSAP-09,Sustainable Use and Benefit-Sharing,1000,1000.0,1000.0,True
+PBSAP-10,"Sustainable Management of Agriculture, Aquaculture, and Forestry",1000,1000.0,1000.0,True
+PBSAP-11,"Regulation of Air, Hazards and Extreme Events",1000,1000.0,1000.0,True
+PBSAP-12,Increase Access to Green and Blue Spaces,945,440.0,945.0,False
+PBSAP-13,Fair and Equitable Sharing of Benefits from Genetic Resources,1000,1000.0,1000.0,True
+PBSAP-14,Mainstreaming Biodiversity,1000,1000.0,1000.0,True
+PBSAP-15,Sustainable Production and Supply Chains,1000,1000.0,1000.0,True
+PBSAP-16,Eliminate Unsustainable Consumption,1000,893.0,1000.0,True
+PBSAP-17,Manage Impacts of Biotechnology,1000,1000.0,1000.0,True
+PBSAP-18,Eliminate Harmful Incentives,1000,807.0,1000.0,True
+PBSAP-19,Resource Mobilization,1000,1000.0,1000.0,True
+PBSAP-20,Strengthen Capacity Building and Development,1000,783.0,1000.0,True
+PBSAP-21,"Traditional Knowledge, Awareness, Education and Research",1000,660.0,1000.0,True
+PBSAP-22,Participation of IPLCs,960,556.0,960.0,False
+PBSAP-23,Gender Equality,676,315.0,676.0,False

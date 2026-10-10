@@ -1,0 +1,100 @@
+# Case-insensitive regular-expression alternatives used to tag a paper as a Philippine study
+# (matched against title + abstract). Pool papers were additionally checked by hand.
+philippin
+filipin
+pilipinas
+luzon
+mindanao
+visayas
+palawan
+mindoro
+negros
+panay
+cebu
+bohol
+leyte
+samar
+manila
+laguna
+batangas
+quezon
+bicol
+cagayan
+isabela
+benguet
+baguio
+davao
+zamboanga
+bukidnon
+sulu
+tawi
+iloilo
+camiguin
+siargao
+surigao
+agusan
+lanao
+cotabato
+sorsogon
+albay
+catanduanes
+marinduque
+romblon
+zambales
+bataan
+pampanga
+tarlac
+pangasinan
+ilocos
+abra
+kalinga
+ifugao
+apayao
+nueva ecija
+nueva vizcaya
+rizal
+cavite
+aklan
+capiz
+guimaras
+siquijor
+masbate
+dinagat
+basilan
+sarangani
+misamis
+tubbataha
+verde island
+sierra madre
+mount apo
+mt\. apo
+banahaw
+makiling
+taal
+coron
+el nido
+puerto princesa
+subic
+dumaguete
+tagalog
+cebuano
+visayan
+mangyan
+lumad
+bulacan
+cordillera
+denr
+barangay
+kalisungan
+\blgus?\b
+local government units
+bfar
+philrice
+calauan
+los ba[ñn]os
+uplb
+mimaropa
+calabarzon
+caraga
+bangsamoro
+barmm

@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+data/corpus/*.parquet
+data/pool/pool.csv
+data/index/
+data/raw/
+data/llm_logs/

@@ -1,0 +1,6 @@
+labels,kendall_tau,p,top_system,same_top
+llm_gpt,0.9428571428571428,1.0155433435856716e-09,bge__decomp,True
+llm_claude,0.8476190476190477,4.0734605880108527e-07,bge__decomp,True
+llm_haiku,0.8476190476190477,4.0734605880108527e-07,bge__decomp,True
+panel,0.8476190476190477,4.0734605880108527e-07,bge__decomp,True
+llm_claude_nocontext,0.48571428571428577,0.01140991603041041,bge__hyde,False
